@@ -4,7 +4,7 @@
   "license_key": "",
   "app_name": "Groundwork Maps",
   "app_description": "Record roads, paths, places, and points of interest with GPS, then use your map offline.",
-  "app_version": "0.1.0",
+  "app_version": "0.1.1",
   "app_icon": "icon-512.png",
   "app_zip": "groundwork-loadsite.zip",
   "app_entry": "index.html",
