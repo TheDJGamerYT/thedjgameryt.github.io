@@ -1,1 +1,16 @@
-m«ëˆ§½©buªàºg§¶ZvÈ­zÆ©¦f§‰÷¬µKæÚ±î¸Ø[é¢Šwâ•ê(º×â•æÛ­æ¤n·š‘éÜ¡×¢ëiºÛ©Š{h–)Ş²‡åzx-†{¦×^r‡^uç(uè§¦ëa…éiv+)•¬­†+&zËè¢›­Šznµø¥y×Ÿjém~ŠìµØ§¢‹­¦ëhºÚnµø¥y×Ÿjém~ŠìµÚ.
+{
+  "loadsites_version": "1.0",
+  "app_author": "Groundwork Project",
+  "license_key": "",
+  "app_name": "Groundwork Maps",
+  "app_description": "Record roads, paths, places, and points of interest with GPS, then use your map offline.",
+  "app_version": "0.1.0",
+  "app_icon": "icon-512.png",
+  "app_zip": "groundwork-loadsite.zip",
+  "app_entry": "index.html",
+  "permissions": [
+    "geolocation",
+    "storage",
+    "haptics"
+  ]
+}
